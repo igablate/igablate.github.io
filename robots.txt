@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://igablate.github.io/sitemap.html.gz
+Sitemap: https://igablate.github.io/app/sitemap.html.gz
+Sitemap: https://igablate.github.io/assets/sitemap.html.gz
+Sitemap: https://igablate.github.io/css/sitemap.html.gz
+Sitemap: https://igablate.github.io/includes/sitemap.html.gz
+Sitemap: https://igablate.github.io/item/sitemap.html.gz
+Sitemap: https://igablate.github.io/src/sitemap.html.gz
